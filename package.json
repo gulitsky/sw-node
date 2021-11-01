@@ -1,6 +1,7 @@
 {
   "name": "sw-node",
   "version": "0.1.0",
+  "license": "ISC",
   "dependencies": {
     "@swc-node/register": "^1.3.7"
   }
